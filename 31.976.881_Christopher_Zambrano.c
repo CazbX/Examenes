@@ -169,6 +169,6 @@ for (i = 0; i < c; i++) {
 	//Nota: profe si asi fue la practica no me quiero imaginar el parcial, tarde 5 horas y casi no lo termino porque al final toque algo y rompi el codigo :(
 	//Si revisas el codigo e intentas no buscar un libro se me olvido como hacerlo disculpeme :(
 	//Di lo mejor de mi se lo prometo :(
-
+	//Ah se me olvido decir en el caso de los colores no me agarro de una forma "sencilla" que me explicaron y me toco hacerlo de esa forma no se si hay problema con eso :(
 	return 0;
 }
